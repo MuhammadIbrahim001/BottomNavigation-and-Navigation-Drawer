@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.1385" />
+        <entry key="app/src/main/res/layout/activity_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/app_bar_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_drawer.xml" value="0.14903846153846154" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/nav_header_drawer.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/menu/drawer.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/menu/drawer_navigation_menu.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
